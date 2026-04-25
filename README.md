@@ -117,7 +117,7 @@ stock-market-analysis/
 Data Analyst | Machine Learning Enthusiast  
 
 📌 GitHub: https://github.com/jumma786  
-📌 LinkedIn: (Add your profile link)
+📌 LinkedIn: https://www.linkedin.com/in/jumma-mohammad/
 
 ---
 
